@@ -46,7 +46,7 @@
         <!-- 5.2.2.Final or above does not appear to work on Java 7 -->
         <hibernate.version>5.1.1.Final</hibernate.version>
         <!-- version 2.4.0 does not work on Java 7 -->
-        <hsqldb.version>2.3.5</hsqldb.version>
+        <hsqldb.version>2.7.1</hsqldb.version>
         <guice.version>4.0</guice.version>
         <jsoup.version>1.10.3</jsoup.version>
         <!-- TestNG 6.11 makes the tests of the testng module to fail -->
